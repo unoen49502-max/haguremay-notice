@@ -1,1 +1,11 @@
- { "version": 1, "notices": [] }
+{
+  "version": 1,
+  "notices": [
+    {
+      "id": "2026-07-26-stream",
+      "type": "stream_soon",
+      "text": "テストなんだよね！ちゃんと出てるかな…",
+      "expires_at": "2026-07-26T05:17:00.000Z"
+    }
+  ]
+}
